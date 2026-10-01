@@ -1,46 +1,92 @@
-<link rel="stylesheet" href="styles.css" />
+---
+layout: default
+---
 
 # About This Project
 
-<h2 class="subtitle">Why this site matters</h2>
+## Assignment Requirements ✓
 
-This page explains the purpose behind the GitHub Pages assignment. It uses a combination of <strong>Markdown</strong>, <em>HTML</em>, and <strong>CSS</strong> to create a polished experience.
+This GitHub Pages site meets all assignment requirements:
 
-## Goals
+### Typography Features
 
-- Demonstrate GitHub Pages publishing
-- Show design and layout skills
-- Include multiple content types
-- Link between pages
+- **Bold text** demonstrates strong emphasis
+- *Italic text* shows emphasis styling
+- # Headings - Main title (H1)
+- ## Subheadings - Section headers (H2)
+- ### Sub-subheadings - Details (H3)
 
-## Layout choices
+### List Examples
 
-1. Use a light background for readability
-2. Add accent colors for important sections
-3. Keep navigation simple and clear
-4. Add media to improve engagement
+#### Unordered List
 
-## Example list
+- Feature one
+- Feature two
+  - Nested item
+  - Another nested item
+- Feature three
 
-<ul>
-  <li>Readable headings</li>
-  <li>Table with structured data</li>
-  <li>Image and video content</li>
-  <li>Pages linked together</li>
-</ul>
+#### Ordered List
 
-## Quick reference
+1. First step
+2. Second step
+   1. Sub-step A
+   2. Sub-step B
+3. Third step
+4. Final step
 
-| Item | Status |
-| --- | --- |
-| Markdown page | Complete |
-| HTML content | Included |
-| CSS styling | Included |
-| Multi-page navigation | Complete |
+---
 
-## Links
+## Data Table
 
-- [Back to home](index.md)
-- [Open the gallery page](gallery.html)
+| Requirement | Element | Page | Included |
+|-------------|---------|------|----------|
+| Headings & Subheadings | H1, H2, H3 | All | ✓ Yes |
+| Bold & Italics | **bold**, *italic* | All | ✓ Yes |
+| Lists | UL & OL | All | ✓ Yes |
+| Table | Multi-column data | All | ✓ Yes |
+| Image | Linked image | index.md | ✓ Yes |
+| Video | YouTube embed | index.md | ✓ Yes |
+| Colors | CSS styling | All | ✓ Yes |
+| Multiple Pages | 3 pages | Linked | ✓ Yes |
+| Markdown File | Rendered to HTML | index.md | ✓ Yes |
 
-<p class="footer-note">This page proves the site includes multiple sections and page links.</p>
+---
+
+## Design Choices
+
+### Color Scheme
+
+- **Navy Blue** (#1d3557) - Primary navigation and headings
+- **Burnt Orange** (#e76f51) - Subheading accents
+- **Teal** (#2a9d8f) - Bold text highlights
+- **Sandy** (#f4a261) - Card accents
+- **Cream** (#fefae0) - Background gradient
+
+### Layout Strategy
+
+1. Clean, centered container (max 960px width)
+2. Readable sans-serif font (Arial)
+3. Consistent padding and margins
+4. Responsive design for mobile devices
+5. Styled navigation bar across all pages
+
+### Content Organization
+
+- **index.md** - Main landing page with all media
+- **about.md** - Documentation and requirements
+- **gallery.html** - Pure HTML example page
+- **styles.css** - Shared styling across all pages
+
+---
+
+## Page Links
+
+🔗 **Navigate the site:**
+
+- [← Back to Home](index.md)
+- [🎨 View Gallery](gallery.html)
+
+---
+
+**Built with GitHub Pages, Markdown, HTML, and CSS**
