@@ -8,7 +8,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #f4f1de 0%, #fefae0 100%);
+  background: linear-gradient(135deg, #f7efe5 0%, #f7f1e7 100%);
   color: #1d3557;
   line-height: 1.6;
 }
@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.5em;
-  border-bottom: 3px solid #e76f51;
+  border-bottom: 3px solid #8b1e2d;
   padding-bottom: 0.3em;
 }
 
@@ -35,11 +35,11 @@ h2 {
 
 h3 {
   font-size: 1.5em;
-  color: #457b9d;
+  color: #d18b3a;
 }
 
 .subtitle {
-  color: #e76f51;
+  color: #8b1e2d;
   font-style: italic;
   margin-top: 0.5em;
   margin-bottom: 1em;
@@ -51,12 +51,12 @@ p {
 }
 
 strong {
-  color: #2a9d8f;
+  color: #8b1e2d;
   font-weight: 600;
 }
 
 em {
-  color: #bc6c25;
+  color: #d18b3a;
   font-style: italic;
 }
 
@@ -77,14 +77,14 @@ main {
 
 hr {
   border: none;
-  border-top: 2px solid #e76f51;
+  border-top: 2px solid #8b1e2d;
   margin: 2em 0;
 }
 
 /* Navigation */
 
 .topbar {
-  background: linear-gradient(90deg, #1d3557 0%, #457b9d 100%);
+  background: linear-gradient(90deg, #1d3557 0%, #8b1e2d 100%);
   color: white;
   padding: 1em 0;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -103,7 +103,7 @@ nav {
 }
 
 nav a {
-  color: #f1faee;
+  color: #f7efe5;
   text-decoration: none;
   font-weight: 600;
   font-size: 1.1em;
@@ -114,7 +114,7 @@ nav a {
 
 nav a:hover,
 nav a.active {
-  background: #f4a261;
+  background: #d18b3a;
   color: #1d3557;
 }
 
@@ -148,7 +148,7 @@ table {
 }
 
 thead {
-  background: #457b9d;
+  background: #1d3557;
   color: white;
 }
 
@@ -156,7 +156,7 @@ th {
   padding: 15px 12px;
   text-align: left;
   font-weight: 600;
-  border-bottom: 2px solid #1d3557;
+  border-bottom: 2px solid #8b1e2d;
 }
 
 td {
@@ -165,7 +165,7 @@ td {
 }
 
 tbody tr:hover {
-  background: #f0f8ff;
+  background: #f9f5f0;
 }
 
 tbody tr:last-child td {
@@ -218,13 +218,13 @@ a {
 }
 
 a:hover {
-  color: #e76f51;
+  color: #8b1e2d;
   text-decoration: underline;
 }
 
 .btn-link {
   display: inline-block;
-  background: #457b9d;
+  background: #8b1e2d;
   color: white;
   padding: 0.8em 1.5em;
   border-radius: 4px;
@@ -233,7 +233,7 @@ a:hover {
 }
 
 .btn-link:hover {
-  background: #e76f51;
+  background: #d18b3a;
   text-decoration: none;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -250,7 +250,7 @@ a:hover {
 
 .card {
   background: #ffffff;
-  border: 2px solid #d9e8d8;
+  border: 2px solid #e4d9c7;
   border-radius: 8px;
   padding: 24px;
   transition: all 0.3s ease;
@@ -260,7 +260,7 @@ a:hover {
 .card:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
-  border-color: #2a9d8f;
+  border-color: #d18b3a;
 }
 
 .card h3 {
@@ -269,16 +269,16 @@ a:hover {
 }
 
 .accent-card {
-  background: linear-gradient(135deg, #ffe5d9 0%, #fff4e6 100%);
-  border-color: #f4a261;
+  background: linear-gradient(135deg, #f8e7d9 0%, #fffaf4 100%);
+  border-color: #d18b3a;
 }
 
 .accent-card h3 {
-  color: #e76f51;
+  color: #8b1e2d;
 }
 
 .accent-card:hover {
-  border-color: #e76f51;
+  border-color: #8b1e2d;
 }
 
 /* Color Grid */
@@ -308,12 +308,12 @@ a:hover {
 footer {
   text-align: center;
   padding: 2em 0 1em;
-  border-top: 2px solid #e76f51;
+  border-top: 2px solid #8b1e2d;
   color: #666;
 }
 
 footer a {
-  color: #457b9d;
+  color: #8b1e2d;
 }
 
 /* Responsive Design */

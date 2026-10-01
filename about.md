@@ -2,91 +2,53 @@
 layout: default
 ---
 
-# About This Project
+# About Flamenco Guitar
 
-## Assignment Requirements ✓
+## A Tradition of Fire and Feeling
 
-This GitHub Pages site meets all assignment requirements:
+Flamenco guitar is not just a genre; it is a cultural expression shaped by **rhythm**, *emotion*, and **discipline**. It carries the spirit of Andalusia and transforms simple guitar techniques into deeply expressive performance.
 
-### Typography Features
+### Core techniques
 
-- **Bold text** demonstrates strong emphasis
-- *Italic text* shows emphasis styling
-- # Headings - Main title (H1)
-- ## Subheadings - Section headers (H2)
-- ### Sub-subheadings - Details (H3)
+- **Rasgueado**: fast, layered strumming for intensity
+- *Tremolo*: sustained notes with shimmering motion
+- **Arpeggios**: delicate fingerstyle patterns
+- *Golpe*: rhythmic taps on the guitar body
+- **Picado**: quick, crisp melodic passages
 
-### List Examples
+### Key musical elements
 
-#### Unordered List
-
-- Feature one
-- Feature two
-  - Nested item
-  - Another nested item
-- Feature three
-
-#### Ordered List
-
-1. First step
-2. Second step
-   1. Sub-step A
-   2. Sub-step B
-3. Third step
-4. Final step
+1. Compás controls the pulse of the performance
+2. Palmas create syncopated excitement
+3. Footwork adds movement and rhythm
+4. Improvisation gives each piece personality
+5. The voice and guitar often work as one expression
 
 ---
 
-## Data Table
+## Why flamenco matters
 
-| Requirement | Element | Page | Included |
-|-------------|---------|------|----------|
-| Headings & Subheadings | H1, H2, H3 | All | ✓ Yes |
-| Bold & Italics | **bold**, *italic* | All | ✓ Yes |
-| Lists | UL & OL | All | ✓ Yes |
-| Table | Multi-column data | All | ✓ Yes |
-| Image | Linked image | index.md | ✓ Yes |
-| Video | YouTube embed | index.md | ✓ Yes |
-| Colors | CSS styling | All | ✓ Yes |
-| Multiple Pages | 3 pages | Linked | ✓ Yes |
-| Markdown File | Rendered to HTML | index.md | ✓ Yes |
+Flamenco is rooted in community, emotion, and storytelling. It turns technique into feeling. A guitar player may be technically precise, but the performance becomes unforgettable when the rhythm and emotion are perfectly connected.
 
 ---
 
-## Design Choices
+## Flamenco essentials table
 
-### Color Scheme
-
-- **Navy Blue** (#1d3557) - Primary navigation and headings
-- **Burnt Orange** (#e76f51) - Subheading accents
-- **Teal** (#2a9d8f) - Bold text highlights
-- **Sandy** (#f4a261) - Card accents
-- **Cream** (#fefae0) - Background gradient
-
-### Layout Strategy
-
-1. Clean, centered container (max 960px width)
-2. Readable sans-serif font (Arial)
-3. Consistent padding and margins
-4. Responsive design for mobile devices
-5. Styled navigation bar across all pages
-
-### Content Organization
-
-- **index.md** - Main landing page with all media
-- **about.md** - Documentation and requirements
-- **gallery.html** - Pure HTML example page
-- **styles.css** - Shared styling across all pages
+| Element | Purpose | Example |
+|---------|---------|---------|
+| Compás | Rhythm guide | 12-beat cycle |
+| Rasgueado | Texture and energy | Fast strumming |
+| Tremolo | Melody sustain | Singing notes |
+| Palmas | Percussion | Clapping accents |
+| Golpe | Body percussion | Tap on the wood |
 
 ---
 
-## Page Links
-
-🔗 **Navigate the site:**
+## Page links
 
 - [← Back to Home](index.md)
-- [🎨 View Gallery](gallery.html)
+- [🎸 Visit the Gallery](gallery.html)
 
 ---
 
-**Built with GitHub Pages, Markdown, HTML, and CSS**
+**Built for flamenco guitar lovers.**
