@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flamenco Guitar Gallery</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <nav>
+        <a href="index.md">🏠 Home</a>
+        <a href="about.md">🎼 About</a>
+        <a href="gallery.html" class="active">🎨 Gallery</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <h1>Flamenco Guitar Gallery</h1>
+      <h2 class="subtitle">Technique, emotion, and rhythm</h2>
+
+      <p>This page celebrates the artistry of the <strong>flamenco guitar</strong>, where <em>compás</em>, percussive attack, and expressive melody meet in one instrument.</p>
+
+      <hr />
+
+      <h2>Signature Techniques</h2>
+
+      <div class="gallery-grid">
+        <div class="card">
+          <h3>🎶 Rasgueado</h3>
+          <p>A rapid strumming pattern that delivers the fiery, aggressive character associated with flamenco.</p>
+          <ul>
+            <li>Fast attack</li>
+            <li>Bright texture</li>
+            <li>High energy</li>
+          </ul>
+        </div>
+
+        <div class="card accent-card">
+          <h3>🎼 Tremolo</h3>
+          <p>A sustained, repeating pattern that creates a lyrical and atmospheric quality in the melody.</p>
+          <ul>
+            <li>Continuous shimmer</li>
+            <li>Emotional tone</li>
+            <li>Long sustained notes</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>🥁 Golpe</h3>
+          <p>Percussive taps on the guitar body add rhythmic punch and the unmistakable flamenco feel.</p>
+          <ul>
+            <li>Rhythmic accent</li>
+            <li>Body percussion</li>
+            <li>Dynamic drive</li>
+          </ul>
+        </div>
+      </div>
+
+      <hr />
+
+      <h2>Flamenco Form Examples</h2>
+
+      <ol>
+        <li><strong>Soleares</strong> – soulful and meditative</li>
+        <li><strong>Bulerías</strong> – energetic and lively</li>
+        <li><strong>Tangos</strong> – elegant and expressive</li>
+        <li><strong>Fandangos</strong> – warm and lyrical</li>
+      </ol>
+
+      <hr />
+
+      <h2>Performance Overview</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Element</th>
+            <th>Role</th>
+            <th>Effect</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Guitar</strong></td>
+            <td>Primary instrument</td>
+            <td>Melody and rhythm</td>
+          </tr>
+          <tr>
+            <td><strong>Palmas</strong></td>
+            <td>Hand clapping</td>
+            <td>Rhythmic drive</td>
+          </tr>
+          <tr>
+            <td><strong>Dance</strong></td>
+            <td>Movement and expression</td>
+            <td>Emotion and timing</td>
+          </tr>
+          <tr>
+            <td><strong>Voice</strong></td>
+            <td>Singing</td>
+            <td>Storytelling and passion</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <hr />
+
+      <h2>Navigation</h2>
+
+      <p>
+        <a href="index.md" class="btn-link">← Home</a>
+        <a href="about.md" class="btn-link">→ About Flamenco</a>
+      </p>
+
+      <footer>
+        <p><small>Created with <strong>GitHub Pages</strong> for a flamenco guitar theme</small></p>
+      </footer>
+    </main>
+  </body>
+</html>
+

@@ -1,0 +1,96 @@
+---
+layout: default
+---
+
+# Flamenco Guitar Journey
+
+## Passion, Rhythm, and Expression
+
+Welcome to my flamenco guitar page, where **tradition**, *emotion*, and **technical skill** come together. This site celebrates the spirit of flamenco through music, history, and performance.
+
+### Highlights of Flamenco
+
+- **Rhythmic intensity** with hand percussion and footwork
+- *Expressive melodies* rooted in Andalusian tradition
+- **Passionate improvisation** and emotional storytelling
+- *Technical mastery* of strumming, arpeggios, and rasgueado
+- **Cultural heritage** from Spain and Andalusia
+
+---
+
+## A Brief Overview of Flamenco
+
+### What makes flamenco unique?
+
+Flamenco is more than guitar music—it is a living art form that combines:
+
+1. Music and singing
+2. Dance and movement
+3. Percussive guitar techniques
+4. Emotional storytelling
+5. Deep cultural identity
+
+### Core Elements of Flamenco
+
+- **Compás**: the rhythmic pulse that guides the performance
+- **Palmas**: hand claps that add energy and timing
+- **Bulerías, Soleares, Tangos**: iconic flamenco forms
+- **Rasgueado**: rapid strumming that creates fire and texture
+- **Golpe**: percussive taps on the guitar body
+
+---
+
+## Featured Image
+
+**Source-linked image:**
+
+<a href="https://unsplash.com/photos/close-up-photography-of-guitar-8M1RU4pGSr8" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80" alt="Acoustic guitar on stage with warm lighting" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</a>
+
+<small>Click the image to explore the source</small>
+
+---
+
+## Featured Video
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1-5OEQc5feM" title="Flamenco Guitar Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+---
+
+## Flamenco Guitar Essentials
+
+| Element | Description | Importance |
+|---------|-------------|------------|
+| Technique | Rasgueado, tremolo, arpeggio | Essential |
+| Rhythm | Compás and pulse | Critical |
+| Expression | Emotional tone and phrasing | Essential |
+| Culture | Andalusian roots and tradition | Foundational |
+| Performance | Interaction with dance and voice | Key |
+
+---
+
+## Navigation
+
+👉 Explore the site:
+
+- [🎼 About Flamenco](about.md)
+- [🎨 Guitar Gallery](gallery.html)
+
+---
+
+## Color Palette
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
+  <div style="background: #1d3557; color: white; padding: 15px; border-radius: 5px; text-align: center;"><strong>Navy</strong><br>#1d3557</div>
+  <div style="background: #a4161a; color: white; padding: 15px; border-radius: 5px; text-align: center;"><strong>Flamenco Red</strong><br>#a4161a</div>
+  <div style="background: #c77d35; color: white; padding: 15px; border-radius: 5px; text-align: center;"><strong>Amber</strong><br>#c77d35</div>
+  <div style="background: #f4e9d8; color: #1d3557; padding: 15px; border-radius: 5px; text-align: center;"><strong>Warm Sand</strong><br>#f4e9d8</div>
+</div>
+
+---
+
+**This page is a GitHub Pages Markdown file rendered as HTML.**
+
